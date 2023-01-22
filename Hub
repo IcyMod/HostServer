@@ -1,13 +1,4 @@
--- Main Source!
---Key = https://pastebin.com/raw/eg5aepmL
 --setclipBoard("c2ef9d1011a0d0ddad5b64b04326f7bc3712ae8a")
-
---if game.PlaceId == 286090429 then
-
-
---if game.PlaceId == 292439477 then  
-   
-
 
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
